@@ -1,0 +1,44 @@
+h1,h3,h5,p,h4,h2{
+    text-align: center;
+}
+th,
+td,
+table {
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+    background-color: #E6E6FA;
+}
+.box-search {
+    display: flex;
+    justify-content: center;
+    gap: .1%;
+}
+.caixa {
+    border: 2px solid rgb(135, 135, 135);
+    padding: 15px;
+    margin-top: 5px;
+}
+.postados {
+    border: 1.5px solid rgb(121, 217, 255);;
+    margin-top: 15px;
+    padding: 15px;
+}
+.nomeUsuario{
+    font-size: 12px;
+}
+.curtidas, .seguidores{
+    margin-left: 10px;
+    font-size: 15px;
+    border: 1px solid blue;
+    text-align: center;
+}
+.verperfil{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.sair{
+    margin-top: 10px;
+    margin-left: 3px;
+
+}
